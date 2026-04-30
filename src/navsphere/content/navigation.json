@@ -261,6 +261,56 @@
       ]
     },
     {
+      "id": "8",
+      "title": "素材资源",
+      "icon": "linecons-thumbs-up",
+      "items": [
+        {
+          "id": "1754229699374",
+          "title": "Lucide",
+          "href": "https://lucide.dev/",
+          "description": "免费的图标素材",
+          "icon": "/assets/favicon_1754229702059.webp",
+          "enabled": true
+        }
+      ],
+      "subCategories": [
+        {
+          "id": "8_1",
+          "title": "图标素材",
+          "href": "#图标素材",
+          "icon": "",
+          "description": "",
+          "items": [
+            {
+              "id": "8_1_2",
+              "title": "iconfont",
+              "href": "http://www.iconfont.cn/",
+              "description": "阿里巴巴矢量图标库",
+              "icon": "/assets/images/logos/iconfont.webp",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "8_2",
+          "title": "LOGO设计",
+          "href": "#LOGO设计",
+          "icon": "",
+          "description": "",
+          "items": []
+        },
+        {
+          "id": "8_3",
+          "title": "平面素材",
+          "href": "#平面素材",
+          "icon": "",
+          "description": "",
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -391,56 +441,6 @@
         }
       ],
       "subCategories": []
-    },
-    {
-      "id": "8",
-      "title": "素材资源",
-      "icon": "linecons-thumbs-up",
-      "items": [
-        {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "免费的图标素材",
-          "icon": "/assets/favicon_1754229702059.webp",
-          "enabled": true
-        }
-      ],
-      "subCategories": [
-        {
-          "id": "8_1",
-          "title": "图标素材",
-          "href": "#图标素材",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_1_2",
-              "title": "iconfont",
-              "href": "http://www.iconfont.cn/",
-              "description": "阿里巴巴矢量图标库",
-              "icon": "/assets/images/logos/iconfont.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "8_2",
-          "title": "LOGO设计",
-          "href": "#LOGO设计",
-          "icon": "",
-          "description": "",
-          "items": []
-        },
-        {
-          "id": "8_3",
-          "title": "平面素材",
-          "href": "#平面素材",
-          "icon": "",
-          "description": "",
-          "items": []
-        }
-      ]
     },
     {
       "id": "1777518883436",
