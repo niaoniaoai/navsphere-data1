@@ -235,14 +235,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1736911347619",
-              "title": "gamma",
-              "href": "https://gamma.app/",
-              "description": "AI生成PPT工具",
-              "icon": "/assets/img_1736911490095.webp",
-              "enabled": true
-            },
-            {
               "id": "1764162262399",
               "title": "Google NotebookLM | AI 研究工具与思考伙伴",
               "href": "https://notebooklm.google/",
