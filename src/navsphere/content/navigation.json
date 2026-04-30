@@ -267,14 +267,6 @@
       ],
       "subCategories": [
         {
-          "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
-          "title": "国外平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
           "title": "录屏工具",
           "icon": "Folder",
