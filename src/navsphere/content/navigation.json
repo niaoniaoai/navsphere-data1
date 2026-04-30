@@ -483,6 +483,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "71504c3f-cf5e-4f3d-ae31-6650a2eaea16",
+          "title": "免费影视",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
