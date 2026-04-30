@@ -111,6 +111,14 @@
           "description": "中国领先的Ai助手",
           "icon": "/assets/favicon_1777517998322.png",
           "enabled": true
+        },
+        {
+          "id": "1764162262399",
+          "title": "Google NotebookLM",
+          "href": "https://notebooklm.google/",
+          "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
+          "icon": "/assets/favicon_1764162265139.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -128,16 +136,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1764162262399",
-              "title": "Google NotebookLM",
-              "href": "https://notebooklm.google/",
-              "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
-              "icon": "/assets/favicon_1764162265139.svg",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
