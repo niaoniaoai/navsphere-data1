@@ -234,6 +234,14 @@
           "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
           "icon": "/assets/favicon_1760513560381.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1777549655268_mbamv2a45",
+          "title": "Adobe 动画人",
+          "href": "https://new.express.adobe.com/home/tools/animate-from-audio",
+          "description": "Adobe Express提供的动画人同步工具",
+          "icon": "/assets/favicon_1777549606309.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
