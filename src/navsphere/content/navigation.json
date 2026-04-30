@@ -376,7 +376,7 @@
           "title": "管理后台",
           "href": "https://navsphere-data1.vercel.app/admin",
           "description": "艾先生的管理后台",
-          "icon": "https://navsphere-data1.vercel.app/favicon.ico",
+          "icon": "/assets/img_1777532154604.png",
           "enabled": true
         }
       ],
