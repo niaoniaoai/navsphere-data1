@@ -397,6 +397,14 @@
           "description": "色彩搭配",
           "icon": "/assets/images/logos/colorhunt.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1777521430189_ldjgm1lbm",
+          "title": "图片转提示词生成器",
+          "href": "https://imageprompt.org/zh/image-to-prompt",
+          "description": "使用我们的图片转提示词工具轻松创建详细的图片提示词。支持Midjourney、Flux、Stable Diffusion和通用描述",
+          "icon": "/assets/favicon_1777521404624.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
