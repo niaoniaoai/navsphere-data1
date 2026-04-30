@@ -459,7 +459,16 @@
       "description": "分享各类实用免费、破解软件",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "95c4a372-e1f3-40e0-b07e-a7c018e73d90",
+          "title": "下载工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
