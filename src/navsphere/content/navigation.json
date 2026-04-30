@@ -19,6 +19,15 @@
       "enabled": true
     },
     {
+      "id": "1777520442263",
+      "title": "免费影视",
+      "icon": "FolderKanban",
+      "description": "免费的影视网站、软件",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具",
       "icon": "Brain",
@@ -474,15 +483,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1777520442263",
-      "title": "免费影视",
-      "icon": "FolderKanban",
-      "description": "免费的影视网站、软件",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
