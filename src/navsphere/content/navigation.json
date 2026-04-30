@@ -830,6 +830,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1777518826701",
+      "title": "创作辅助工具",
+      "icon": "LayoutGrid",
+      "description": "自媒体创作辅助工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
