@@ -301,6 +301,14 @@
           "description": "免费的诉状生成器",
           "icon": "/assets/favicon_1777520592874.png",
           "enabled": true
+        },
+        {
+          "id": "3_5",
+          "title": "图片压缩",
+          "href": "https://tinypng.com/",
+          "description": "在线图片压缩工具",
+          "icon": "/assets/images/logos/tinypng.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -310,16 +318,7 @@
           "href": "#在线工具",
           "icon": "Folder",
           "description": "",
-          "items": [
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.webp",
-              "enabled": true
-            }
-          ],
+          "items": [],
           "enabled": true
         }
       ],
