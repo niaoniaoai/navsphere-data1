@@ -119,6 +119,14 @@
           "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
           "icon": "/assets/favicon_1764162265139.svg",
           "enabled": true
+        },
+        {
+          "id": "1760435371540",
+          "title": "Suno | AI Music",
+          "href": "https://suno.com/home",
+          "description": "Create stunning original music for free in seconds using AI. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
+          "icon": "/assets/favicon_1760435376153.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -145,14 +153,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1760435371540",
-              "title": "Suno | AI Music",
-              "href": "https://suno.com/home",
-              "description": "Create stunning original music for free in seconds using AI. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
-              "icon": "/assets/favicon_1760435376153.webp",
-              "enabled": true
-            },
             {
               "id": "1760435417839",
               "title": "Sora",
