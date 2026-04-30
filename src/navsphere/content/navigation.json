@@ -103,6 +103,14 @@
           "description": "Google AI Studio",
           "icon": "/assets/favicon_1764762488719.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1777518034531_xsd8l7s61",
+          "title": "chat.deepseek.com",
+          "href": "https://chat.deepseek.com/",
+          "description": "中国领先的Ai助手",
+          "icon": "/assets/favicon_1777517998322.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -112,16 +120,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1777518034531_xsd8l7s61",
-              "title": "chat.deepseek.com",
-              "href": "https://chat.deepseek.com/",
-              "description": "中国领先的Ai助手",
-              "icon": "/assets/favicon_1777517998322.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
