@@ -370,6 +370,14 @@
           "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
           "icon": "/assets/favicon_1764304640963.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1777531626728_myhil4w8d",
+          "title": "管理后台",
+          "href": "https://navsphere-data1.vercel.app/admin",
+          "description": "艾先生的管理后台",
+          "icon": "https://navsphere-data1.vercel.app/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
