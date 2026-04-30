@@ -484,6 +484,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1777520479167",
+      "title": "下载工具",
+      "icon": "FolderKanban",
+      "description": "免费的高速下载工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
