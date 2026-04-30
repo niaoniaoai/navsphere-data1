@@ -235,6 +235,14 @@
           "description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
           "icon": "/assets/favicon_1777520673635.png",
           "enabled": true
+        },
+        {
+          "id": "8_1_2",
+          "title": "iconfont",
+          "href": "http://www.iconfont.cn/",
+          "description": "阿里巴巴矢量图标库",
+          "icon": "/assets/images/logos/iconfont.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -244,16 +252,7 @@
           "href": "#图标素材",
           "icon": "",
           "description": "",
-          "items": [
-            {
-              "id": "8_1_2",
-              "title": "iconfont",
-              "href": "http://www.iconfont.cn/",
-              "description": "阿里巴巴矢量图标库",
-              "icon": "/assets/images/logos/iconfont.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
