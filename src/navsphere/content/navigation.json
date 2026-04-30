@@ -383,6 +383,15 @@
       "subCategories": []
     },
     {
+      "id": "1777520479167",
+      "title": "下载工具",
+      "icon": "FolderKanban",
+      "description": "免费的高速下载工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1777520504751",
       "title": "语音合成",
       "icon": "FolderKanban",
@@ -397,16 +406,7 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1777520838456_q8qv3xn53",
-          "title": "网易云音乐无损解析",
-          "href": "https://wyapi.toubiec.cn/",
-          "description": "网易云音乐无损解析",
-          "icon": "/assets/favicon_1777520824107.svg",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
@@ -473,7 +473,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1777520838456_q8qv3xn53",
+              "title": "网易云音乐无损解析",
+              "href": "https://wyapi.toubiec.cn/",
+              "description": "网易云音乐无损解析",
+              "icon": "/assets/favicon_1777520824107.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "71504c3f-cf5e-4f3d-ae31-6650a2eaea16",
