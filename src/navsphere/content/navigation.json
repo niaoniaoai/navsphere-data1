@@ -12,14 +12,6 @@
           "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
           "icon": "/assets/favicon_1777442227055.ico",
           "enabled": true
-        },
-        {
-          "id": "item-1765687115114",
-          "enabled": true,
-          "title": "PageSpeed Insights",
-          "href": "https://pagespeed.web.dev/",
-          "description": "",
-          "icon": "/assets/favicon_1765687105275.webp"
         }
       ],
       "subCategories": [],
