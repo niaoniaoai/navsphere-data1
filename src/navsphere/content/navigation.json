@@ -28,6 +28,14 @@
           "description": "剪映破解版，VIP功能免费用",
           "icon": "/assets/favicon_1777521106131.png",
           "enabled": true
+        },
+        {
+          "id": "site_1777521241333_9dufjltol",
+          "title": "视频号下载软件",
+          "href": "https://drive.uc.cn/s/d154f3a5c10e4",
+          "description": "支持下载视频号视频",
+          "icon": "/assets/favicon_1777521215984.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
