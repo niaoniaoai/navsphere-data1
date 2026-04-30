@@ -475,6 +475,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "eaff1142-2b41-420d-ad07-f1bab168d8f4",
+          "title": "免费音乐",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
