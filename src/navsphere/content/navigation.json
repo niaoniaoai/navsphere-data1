@@ -394,16 +394,7 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "0ed6d8b1-effe-4535-8cde-60ec38f9c96c",
