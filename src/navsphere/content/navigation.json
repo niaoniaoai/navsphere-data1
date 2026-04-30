@@ -36,6 +36,14 @@
           "description": "支持下载视频号视频",
           "icon": "/assets/favicon_1777521215984.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1777521288515_vsmtp7cz0",
+          "title": "全网在线听歌软件",
+          "href": "https://drive.uc.cn/s/ae6d2ababa474",
+          "description": "免费的全网在线听歌软件",
+          "icon": "/assets/favicon_1777521266040.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
