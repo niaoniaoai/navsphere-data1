@@ -12,6 +12,14 @@
           "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
           "icon": "/assets/favicon_1777442227055.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1777520912839_7ndppakxp",
+          "title": "字幕提取软件",
+          "href": "https://pan.baidu.com/s/1yPkp_xnvzrelwzt0iuka1w?pwd=a5i4",
+          "description": "可以免费提取任何视频字幕的软件",
+          "icon": "/assets/favicon_1777520887142.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
