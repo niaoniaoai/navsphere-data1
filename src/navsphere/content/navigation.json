@@ -255,6 +255,14 @@
           "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
           "icon": "/assets/favicon_1777521720569.png",
           "enabled": true
+        },
+        {
+          "id": "site_1777521756232_8465qoli2",
+          "title": "x.com",
+          "href": "https://x.com/",
+          "description": "",
+          "icon": "/assets/favicon_1777521749561.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
