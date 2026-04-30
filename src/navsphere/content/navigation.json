@@ -281,6 +281,14 @@
           "description": "免费的图标素材",
           "icon": "/assets/favicon_1754229702059.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1777520702470_a39k0xo95",
+          "title": "图片视频素材库",
+          "href": "https://pixabay.com/zh/",
+          "description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
+          "icon": "/assets/favicon_1777520673635.png",
+          "enabled": true
         }
       ],
       "subCategories": [
