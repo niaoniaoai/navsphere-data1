@@ -526,7 +526,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1777520838456_q8qv3xn53",
+          "title": "网易云音乐无损解析",
+          "href": "https://wyapi.toubiec.cn/",
+          "description": "网易云音乐无损解析",
+          "icon": "/assets/favicon_1777520824107.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
