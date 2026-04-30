@@ -52,6 +52,14 @@
           "description": "可可影视，通过电视、手机免费观看电影、电视剧",
           "icon": "https://vedl.lxapp3.shop/images/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1777532887051_v9ajthlvj",
+          "title": "蜜桃成人视频",
+          "href": "https://vedl.lxapp2.shop/mt/01/dl.html?cId=d11090",
+          "description": "免费看成人片，请低调观看",
+          "icon": "https://vedl.lxapp2.shop/images/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
