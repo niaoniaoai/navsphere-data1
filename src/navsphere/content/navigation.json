@@ -245,16 +245,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "8_1",
-          "title": "图标素材",
-          "href": "#图标素材",
-          "icon": "",
-          "description": "",
-          "items": []
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "1777518826701",
