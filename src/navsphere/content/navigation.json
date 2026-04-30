@@ -357,7 +357,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1777520628325_k79w08nvj",
+          "title": "诉状生成器",
+          "href": "https://pan.baidu.com/s/1EHPUBnjiAF4AQVjHNeP_iA?pwd=g9ct",
+          "description": "免费的诉状生成器",
+          "icon": "/assets/favicon_1777520592874.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
