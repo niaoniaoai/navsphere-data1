@@ -59,6 +59,82 @@
       "enabled": true
     },
     {
+      "id": "1777532254009",
+      "title": "实用软件",
+      "icon": "FolderOpen",
+      "description": "分享各类实用免费、破解软件",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "95c4a372-e1f3-40e0-b07e-a7c018e73d90",
+          "title": "下载工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1777520990104_izale5ivj",
+              "title": "全网视频下载",
+              "href": "https://snapany.com/zh",
+              "description": "万能视频图片去水印解析下载工具,支持解析哔哩哔哩、抖音、TikTok、Facebook等上千个平台的视频图片,提取出来的视频无水印,可以免费、快速、方便地将视频图片去水印保存到手机相册、电脑本地.",
+              "icon": "/assets/favicon_1777520977261.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1777521194490_nodr0ijga",
+              "title": "FDM高速下载软件",
+              "href": "https://pan.baidu.com/s/1amnFDo6YpGBeZ3KYAVgcjw?pwd=29iv",
+              "description": "替换迅雷的免费高速下载软件",
+              "icon": "/assets/favicon_1777521164934.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1777521067985_3125ns0gb",
+              "title": "免会员迅雷软件",
+              "href": "https://drive.uc.cn/s/c763798d93ae4",
+              "description": "不用开会员、无广告的迅雷软件",
+              "icon": "/assets/favicon_1777521029725.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "bfe40408-6daa-47a5-9c85-f2459d3d5702",
+          "title": "语音合成",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "eaff1142-2b41-420d-ad07-f1bab168d8f4",
+          "title": "免费音乐",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1777520838456_q8qv3xn53",
+              "title": "网易云音乐无损解析",
+              "href": "https://wyapi.toubiec.cn/",
+              "description": "网易云音乐无损解析",
+              "icon": "/assets/favicon_1777520824107.svg",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "71504c3f-cf5e-4f3d-ae31-6650a2eaea16",
+          "title": "免费影视",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "9",
       "title": "AI工具",
       "icon": "Brain",
@@ -381,82 +457,6 @@
         }
       ],
       "subCategories": []
-    },
-    {
-      "id": "1777532254009",
-      "title": "实用软件",
-      "icon": "FolderOpen",
-      "description": "分享各类实用免费、破解软件",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "95c4a372-e1f3-40e0-b07e-a7c018e73d90",
-          "title": "下载工具",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1777520990104_izale5ivj",
-              "title": "全网视频下载",
-              "href": "https://snapany.com/zh",
-              "description": "万能视频图片去水印解析下载工具,支持解析哔哩哔哩、抖音、TikTok、Facebook等上千个平台的视频图片,提取出来的视频无水印,可以免费、快速、方便地将视频图片去水印保存到手机相册、电脑本地.",
-              "icon": "/assets/favicon_1777520977261.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1777521194490_nodr0ijga",
-              "title": "FDM高速下载软件",
-              "href": "https://pan.baidu.com/s/1amnFDo6YpGBeZ3KYAVgcjw?pwd=29iv",
-              "description": "替换迅雷的免费高速下载软件",
-              "icon": "/assets/favicon_1777521164934.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1777521067985_3125ns0gb",
-              "title": "免会员迅雷软件",
-              "href": "https://drive.uc.cn/s/c763798d93ae4",
-              "description": "不用开会员、无广告的迅雷软件",
-              "icon": "/assets/favicon_1777521029725.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "bfe40408-6daa-47a5-9c85-f2459d3d5702",
-          "title": "语音合成",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "eaff1142-2b41-420d-ad07-f1bab168d8f4",
-          "title": "免费音乐",
-          "icon": "LayoutGrid",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1777520838456_q8qv3xn53",
-              "title": "网易云音乐无损解析",
-              "href": "https://wyapi.toubiec.cn/",
-              "description": "网易云音乐无损解析",
-              "icon": "/assets/favicon_1777520824107.svg",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "71504c3f-cf5e-4f3d-ae31-6650a2eaea16",
-          "title": "免费影视",
-          "icon": "Globe",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
     }
   ]
 }
