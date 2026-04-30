@@ -44,6 +44,14 @@
           "description": "免费的全网在线听歌软件",
           "icon": "/assets/favicon_1777521266040.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1777521364844_qpywie52x",
+          "title": "可可影视（TV及手机端）",
+          "href": "https://vedl.lxapp3.shop/kkdy/01/dl.html?cId=d11003",
+          "description": "可可影视，通过电视、手机免费观看电影、电视剧",
+          "icon": "https://vedl.lxapp3.shop/images/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
