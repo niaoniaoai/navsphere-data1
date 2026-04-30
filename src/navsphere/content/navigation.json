@@ -127,6 +127,14 @@
           "description": "Create stunning original music for free in seconds using AI. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
           "icon": "/assets/favicon_1760435376153.webp",
           "enabled": true
+        },
+        {
+          "id": "1_7",
+          "title": "Tensor.art",
+          "href": "https://tensor.art/",
+          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
+          "icon": "/assets/images/logos/tensorart.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -167,14 +175,6 @@
               "href": "https://aistudio.google.com/gen-media",
               "description": "在AI 图像生成领域，神秘的Nano Banana 悄悄窜起，现已正名为Gemini 2.5 Flash Image。它最初并非透过Google 官方宣传引起关注，而是在LM Arena 评比平台上表现亮眼，还掀起 Gemini 公仔风潮！",
               "icon": "/assets/favicon_1760435673911.webp",
-              "enabled": true
-            },
-            {
-              "id": "1_7",
-              "title": "Tensor.art",
-              "href": "https://tensor.art/",
-              "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-              "icon": "/assets/images/logos/tensorart.webp",
               "enabled": true
             }
           ]
