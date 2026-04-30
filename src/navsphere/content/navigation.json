@@ -467,6 +467,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "bfe40408-6daa-47a5-9c85-f2459d3d5702",
+          "title": "语音合成",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
