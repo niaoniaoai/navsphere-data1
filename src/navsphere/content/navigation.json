@@ -388,16 +388,7 @@
       "icon": "FolderKanban",
       "description": "免费的高速下载工具",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1777521067985_3125ns0gb",
-          "title": "免会员迅雷软件",
-          "href": "https://drive.uc.cn/s/c763798d93ae4",
-          "description": "不用开会员、无广告的迅雷软件",
-          "icon": "/assets/favicon_1777521029725.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
@@ -465,6 +456,14 @@
               "href": "https://pan.baidu.com/s/1amnFDo6YpGBeZ3KYAVgcjw?pwd=29iv",
               "description": "替换迅雷的免费高速下载软件",
               "icon": "/assets/favicon_1777521164934.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1777521067985_3125ns0gb",
+              "title": "免会员迅雷软件",
+              "href": "https://drive.uc.cn/s/c763798d93ae4",
+              "description": "不用开会员、无广告的迅雷软件",
+              "icon": "/assets/favicon_1777521029725.ico",
               "enabled": true
             }
           ]
