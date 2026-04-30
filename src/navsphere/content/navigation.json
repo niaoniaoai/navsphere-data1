@@ -451,6 +451,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1777532254009",
+      "title": "实用软件",
+      "icon": "FolderOpen",
+      "description": "分享各类实用免费、破解软件",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
