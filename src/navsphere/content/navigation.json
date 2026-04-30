@@ -392,15 +392,6 @@
       "subCategories": []
     },
     {
-      "id": "1777520504751",
-      "title": "语音合成",
-      "icon": "FolderKanban",
-      "description": "免费的文字转语音工具",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1777532254009",
       "title": "实用软件",
       "icon": "FolderOpen",
