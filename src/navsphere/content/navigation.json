@@ -151,6 +151,14 @@
           "description": "在AI 图像生成领域，神秘的Nano Banana 悄悄窜起，现已正名为Gemini 2.5 Flash Image。它最初并非透过Google 官方宣传引起关注，而是在LM Arena 评比平台上表现亮眼，还掀起 Gemini 公仔风潮！",
           "icon": "/assets/favicon_1760435673911.webp",
           "enabled": true
+        },
+        {
+          "id": "1760513538759",
+          "title": "v0 by Vercel",
+          "href": "https://v0.app/",
+          "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
+          "icon": "/assets/favicon_1760513560381.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -184,16 +192,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760513538759",
-              "title": "v0 by Vercel",
-              "href": "https://v0.app/",
-              "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
-              "icon": "/assets/favicon_1760513560381.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ],
       "description": "",
