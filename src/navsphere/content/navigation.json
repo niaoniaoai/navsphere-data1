@@ -302,6 +302,14 @@
           "description": "",
           "icon": "/assets/favicon_1784088488122.png",
           "enabled": true
+        },
+        {
+          "id": "site_1784088539876_7mb7sjdek",
+          "title": "抖音创作者中心",
+          "href": "https://creator.douyin.com/creator-micro/content/publish?enter_from=publish_page",
+          "description": "抖音创作服务平台是抖音创作者的专属服务平台，支持用户作为创作者和管理机构两种登陆方式，并通过提供授权管理、内容管理、互动管理及数据管理等服务助力抖音用户高效运营！",
+          "icon": "/assets/favicon_1784088525759.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
