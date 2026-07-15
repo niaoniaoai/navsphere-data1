@@ -294,6 +294,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1784088499261_qzqel35vi",
+          "title": "头条号",
+          "href": "https://mp.toutiao.com/profile_v4/index",
+          "description": "",
+          "icon": "/assets/favicon_1784088488122.png",
+          "enabled": true
         }
       ],
       "subCategories": []
