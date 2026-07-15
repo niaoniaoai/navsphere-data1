@@ -286,6 +286,14 @@
           "description": "",
           "icon": "/assets/favicon_1777521749561.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1784088472029_ge0kcy8yi",
+          "title": "B站",
+          "href": "https://member.bilibili.com/platform/home",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
